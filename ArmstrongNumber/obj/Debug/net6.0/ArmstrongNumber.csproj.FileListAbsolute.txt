@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.exe
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.deps.json
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\refint\ArmstrongNumber.dll
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.genruntimeconfig.cache
+C:\Users\mitra\Desktop\.NET Programs\ArmstrongNumber\obj\Debug\net6.0\ref\ArmstrongNumber.dll

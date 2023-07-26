@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\bin\Debug\net6.0\TableOfTen.exe
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\bin\Debug\net6.0\TableOfTen.deps.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\bin\Debug\net6.0\TableOfTen.runtimeconfig.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\bin\Debug\net6.0\TableOfTen.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\bin\Debug\net6.0\TableOfTen.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.csproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.AssemblyInfo.cs
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\refint\TableOfTen.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\TableOfTen.genruntimeconfig.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTen\obj\Debug\net6.0\ref\TableOfTen.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\bin\Debug\net6.0\TableOfFive.exe
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\bin\Debug\net6.0\TableOfFive.deps.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\bin\Debug\net6.0\TableOfFive.runtimeconfig.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\bin\Debug\net6.0\TableOfFive.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\bin\Debug\net6.0\TableOfFive.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.csproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.AssemblyInfo.cs
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\refint\TableOfFive.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\TableOfFive.genruntimeconfig.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfFive\obj\Debug\net6.0\ref\TableOfFive.dll

@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\bin\Debug\net6.0\StringPallindrome.exe
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\bin\Debug\net6.0\StringPallindrome.deps.json
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\bin\Debug\net6.0\StringPallindrome.runtimeconfig.json
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\bin\Debug\net6.0\StringPallindrome.dll
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\bin\Debug\net6.0\StringPallindrome.pdb
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.csproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.AssemblyInfo.cs
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.dll
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\refint\StringPallindrome.dll
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.pdb
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\StringPallindrome.genruntimeconfig.cache
+C:\Users\mitra\Desktop\.NET Programs\StringPallindrome\obj\Debug\net6.0\ref\StringPallindrome.dll

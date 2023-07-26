@@ -1,0 +1,15 @@
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\bin\Debug\net6.0\TableOfTwo.exe
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\bin\Debug\net6.0\TableOfTwo.deps.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\bin\Debug\net6.0\TableOfTwo.runtimeconfig.json
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\bin\Debug\net6.0\TableOfTwo.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\bin\Debug\net6.0\TableOfTwo.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.csproj.AssemblyReference.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.AssemblyInfoInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.AssemblyInfo.cs
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\refint\TableOfTwo.dll
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.pdb
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\TableOfTwo.genruntimeconfig.cache
+C:\Users\mitra\Desktop\.NET Programs\TableOfTwo\obj\Debug\net6.0\ref\TableOfTwo.dll
